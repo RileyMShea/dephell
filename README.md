@@ -78,6 +78,7 @@ Let's get [sampleproject](https://github.com/pypa/sampleproject) and make it bet
 
 ```bash
 git clone https://github.com/pypa/sampleproject.git
+git checkout f31ab988d6b8151ab45079b4d962761d9f4d4b2b
 cd sampleproject
 ```
 
